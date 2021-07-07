@@ -3,6 +3,12 @@
 ## Project and Purpose Overview
 Determining the winner of any US election is a large task.  Information that is collected and evaluated include:
 
+•	Correlation between campaign (specifical theater) launch date and its outcome
+
+•	Correlation between project funding goal and its outcome
+    
+
+
   •	i to lo
   •	i to lo
 
