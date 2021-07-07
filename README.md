@@ -1,6 +1,6 @@
-Anylysis of an Election Audit Using Python:  is it successful and can it be automated
+# Anylysis of an Election Audit Using Python:  is it successful and can it be automated
 
-##Project and Purpose Overview
+## Project and Purpose Overview
 Determining the winner of any US election is a large task.  Information that is collected and evaluated include:
 
 •	Total votes cast in the election
