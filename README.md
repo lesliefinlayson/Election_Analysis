@@ -3,6 +3,9 @@
 ## Project and Purpose Overview
 Determining the winner of any US election is a large task.  Information that is collected and evaluated include:
 
+  •	i to lo
+  •	i to lo
+
 •	Total votes cast in the election
 •	Total votes for each candidate
 •	Percentage of the total vote each candidate received
