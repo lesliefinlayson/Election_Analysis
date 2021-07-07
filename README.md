@@ -1,7 +1,19 @@
 # Anylysis of an Election Audit Using Python:  is it successful and can it be automated
 
 ## Project and Purpose Overview
-Determining the winner of any US election is a large task.  A great deal of information is collected and processed as quickly as possible.  A Colorade US Congressional Precinct, for example, had a voter of almost 370,000 voters!  Information that is collected and evaluated include:
+Determining the winner of any US election is a large task.  A great deal of information is collected and processed as quickly as possible.  A recent Colorade US Congressional Precinct, for example, had a turnout of almost 370,000 voters.  Historically this information is analyzed in Excel.  While this is functional, there may be other options that can better handle large amounts of data and that can be automated and save time and increase accuracy.  
+
+The purpose of this project is to determine if Python can successfully generate the information needed to determine the winner of an election, generate other information that is useful to the Election Board, and can it be automated to be used by all types of elections in the future.  
+
+
+ 
+
+
+
+In order to determine the election winner of the popular vote, s
+
+The purpose of this project is to audit an election for a Colorado US Congressional Precinct in Colorado using Python rather than Excel.  Information that is collected includes:
+Information that is collected and evaluated include:
 
 •	Total votes cast in the election
 
@@ -18,14 +30,3 @@ Other useful information that migiht be collected and analysed from an election 
 •	Percentage of votes from each county out of the total count
 
 •	County with the highest turnout
-
-Historically this information has been analyzed in Excel.  While this is functional, there may be other options that can better handle large amounts of data and that can be automated and used for all future elections.  The purpse of this project is to determine if Python can be successfully used to generate the information needed to determine the winner of an election as well as generate the other useful information that is available from the election process. 
-
-
- 
-
-
-
-
-
-The purpose of this project is to audit an election for a Colorado US Congressional Precinct in Colorado using Python rather than Excel.  Information that is collected includes:
