@@ -1,7 +1,7 @@
 # Anylysis of an Election Audit Using Python:  is it successful and can it be automated
 
 ## Project and Purpose Overview
-Determining the winner of any US election is a large task.  Information that is collected and evaluated include:
+Determining the winner of any US election is a large task.  A great deal of information is collected and processed as quickly as possible.  A Colorade US Congressional Precinct, for example, had a voter of almost 370,000 voters!  Information that is collected and evaluated include:
 
 •	Total votes cast in the election
 
