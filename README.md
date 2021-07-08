@@ -35,6 +35,14 @@ _Procedure_:  An "if" statement was written to dettermine the winning county
 ![image](https://user-images.githubusercontent.com/84471904/124847844-8f54a900-df50-11eb-9d99-ad9a16d124cf.png)
 
 
+•	Number of Votes and the Percentage of Total Votes for Each Candidate: 
+
+Charles Casper Stockham: 23.0% (85,213)
+
+Diana DeGette: 73.8% (272,892)
+
+Raymon Anthony Doane: 3.1% (11,606)
+
 
 
 
