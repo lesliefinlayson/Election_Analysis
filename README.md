@@ -8,7 +8,7 @@ The purpose of this project is to determine if Python can successfully generate 
 ## Election_Audit Results:
 
 •	A total of 369,711 votes were cast in this election.  
-To find the total votes of the election, a loop was written for each row in the CSV file and a line added to tally the count:
+__Procedure__:  To find the total votes of the election, a loop was written for each row in the CSV file and a line added to tally the count:
 
 
  
@@ -26,23 +26,3 @@ To find the total votes of the election, a loop was written for each row in the 
 
 
 
-In order to determine the election winner of the popular vote, s
-
-The purpose of this project is to audit an election for a Colorado US Congressional Precinct in Colorado using Python rather than Excel.  Information that is collected includes:
-Information that is collected and evaluated include:
-
-•	Total votes cast in the election
-
-•	Total votes for each candidate
-
-•	Percentage of the total vote each candidate received
-
-The winner can then be determined based on who received the largest percentage of the vote.  
-
-Other useful information that migiht be collected and analysed from an election are:
-
-•	Voter turnout for each county
-
-•	Percentage of votes from each county out of the total count
-
-•	County with the highest turnout
