@@ -64,10 +64,12 @@ _Procedure_:  An "if" statement was written to dettermine the winning candidate:
 This Python script quickly and correctly analyzed all the information needed to determine the winner of the election by calculating total election votes, the total votes received by each candidate, the percentage of the total vote each candidate received, and finally, the election winner based on this information.  This script was then modified to included analyzing the data by county, including number of votes and the percentage of total votes for each county.  
 
 Business proposal:  
-This Python script can be easiy modified for future elections, whether Local, County, Congressional, etc. Because the lists and dictionaries in the script are not hard-coded, they will run analysis on whatever data file is entered.  County information may or may not be of interested in some elections and can be removed.  Other parameters that might be of interest and can be added are:
+This Python script can be easiy modified for future elections, whether Local, County, Congressional, etc. Because the lists and dictionaries in the script are not hard-coded, they will run analysis on whatever data file is entered.  County information may or may not be of interested in some elections and can be removed.  Other parameters that might be of interest and can be added and analyzed are:
  
-•	political party affiliation 
-•	voting districcts 
+•	political party affiliation
+
+•	voting districcts
+
 •	voters' age, ethnicity, gender if available 
 
 
