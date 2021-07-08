@@ -49,7 +49,7 @@ _Procedure_:  To find the candidate information, a loop and the following lines 
 ![image](https://user-images.githubusercontent.com/84471904/124848515-dc854a80-df51-11eb-9820-33f8ab70e636.png)
 
 
-Diana DeGette won the election:
+•	Diana DeGette won the election:
 
 Winner: Diana DeGette
 
