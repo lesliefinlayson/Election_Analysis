@@ -43,10 +43,24 @@ Diana DeGette: 73.8% (272,892)
 
 Raymon Anthony Doane: 3.1% (11,606)
 
-_Procedure_:  To find the candidate information, a loop and the following lines were added to the code"
+_Procedure_:  To find the candidate information, a loop and the following lines were added to the code:
 
 
 ![image](https://user-images.githubusercontent.com/84471904/124848515-dc854a80-df51-11eb-9820-33f8ab70e636.png)
+
+
+Diana DeGette won the election:
+
+Winner: Diana DeGette
+
+Winning Vote Count: 272,892
+
+Winning Percentage: 73.8%
+
+_Procedure_:  An "if" statement was written to dettermine the winning candidate
+
+![image](https://user-images.githubusercontent.com/84471904/124848880-9381c600-df52-11eb-8a0d-5b11e7573804.png)
+
 
 
 
