@@ -20,9 +20,10 @@ _Procedure_:  To find the total votes of the election, a loop was written for ea
 2.  Jefferson County:  38,855 votes:     10.51% of the total votes
 3.  Arapahoe County:  24,801 votes:     6.71% of the total votes
 
+_Procedure_:  To find the precinct's county information, a loop and the following lines were added to the code:  
 
 
-
+![image](https://user-images.githubusercontent.com/84471904/124847506-e017d200-df4f-11eb-93ef-6f964cf192c8.png)
 
 
 
