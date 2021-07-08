@@ -8,6 +8,9 @@ The purpose of this project is to determine if Python can successfully generate 
 ## Election_Audit Results:
 
 •	A total of 369,711 votes were cast in this election.  
+To find the total votes of the election, a loop was written for each row in the CSV file provided amd a ;ome added tp tally the count:
+
+ 
  
 
 
