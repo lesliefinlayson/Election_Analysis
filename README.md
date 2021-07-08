@@ -10,6 +10,7 @@ The purpose of this project is to determine if Python can successfully generate 
 •	A total of 369,711 votes were cast in this election.  
 To find the total votes of the election, a loop was written for each row in the CSV file and a line added to tally the count:
 
+
  
  ![image](https://user-images.githubusercontent.com/84471904/124843345-9b3b6d80-df46-11eb-96ba-d4d6cf1b90a7.png)
 
