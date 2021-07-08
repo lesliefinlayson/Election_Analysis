@@ -51,8 +51,6 @@ _Procedure_:  To find the candidate information, a loop and the following lines 
 
 •	Diana DeGette won the election:
 
-Winner: Diana DeGette
-
 Winning Vote Count: 272,892
 
 Winning Percentage: 73.8%
