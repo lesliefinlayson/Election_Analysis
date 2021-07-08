@@ -55,10 +55,16 @@ Winning Vote Count: 272,892
 
 Winning Percentage: 73.8%
 
-_Procedure_:  An "if" statement was written to dettermine the winning candidate
+_Procedure_:  An "if" statement was written to dettermine the winning candidate:
 
 ![image](https://user-images.githubusercontent.com/84471904/124848880-9381c600-df52-11eb-8a0d-5b11e7573804.png)
 
+
+## Election_Audit Summary
+This Python script quickly and correctly analyzed all the information needed to determine the winner of the election by calculating total election votes, the total votes received by each candidate, the percentage of the total vote each candidate received, and finally, the election winner based on this information.  This script was then modified to included analyzing the data by county, including number of votes and the percentage of total votes for each county.  
+
+Business proposal:  
+This Python script can be easiy modified for future elections, whether Local, County, Congressional, etc. Simple requirements are the csv file for the election  and the  
 
 
 
