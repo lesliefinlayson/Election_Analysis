@@ -25,5 +25,13 @@ _Procedure_:  To find the precinct's county information, a loop and the followin
 
 ![image](https://user-images.githubusercontent.com/84471904/124847506-e017d200-df4f-11eb-93ef-6f964cf192c8.png)
 
+•	Denver County had the largest number of votes
+
+_Procedure_:  An "if" statement was written to dettermine the winning county
+
+![image](https://user-images.githubusercontent.com/84471904/124847844-8f54a900-df50-11eb-9d99-ad9a16d124cf.png)
+
+
+
 
 
