@@ -43,6 +43,13 @@ Diana DeGette: 73.8% (272,892)
 
 Raymon Anthony Doane: 3.1% (11,606)
 
+_Procedure_:  To find the candidate information, a loop and the following lines were added to the code"
+
+
+![image](https://user-images.githubusercontent.com/84471904/124848515-dc854a80-df51-11eb-9820-33f8ab70e636.png)
+
+
+
 
 
 
