@@ -17,8 +17,11 @@ _Procedure_:  To find the total votes of the election, a loop was written for ea
 •	Number of Votes and the Percentage of Total Votes for Each County in the Precinct: 
 
 County Votes:
+
 Jefferson: 10.509560% (38,855)
+
 Denver: 82.782227% (306,055)
+
 Arapahoe: 6.708213% (24,801)
 
 
