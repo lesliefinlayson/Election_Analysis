@@ -1,4 +1,5 @@
-# Anylysis of an Election Audit Using Python:  is it successful and can it be automated
+# Anylysis of an Election Audit Using Python:  
+Is It Successful and Can It Be Automated
 
 ## Project and Purpose Overview:
 Determining the winner of any US election is a large task.  A great deal of information is collected and processed as quickly as possible.  A recent Colorade US Congressional Precinct, for example, had a turnout of almost 370,000 voters.  Excel has been customarily used to analyze this information.  While this is functional, there may be other options that can better handle large amounts of data and that can be automated to save time and increase accuracy.  
@@ -28,7 +29,7 @@ _Procedure_:  To find the precinct's county information, a loop and the followin
 
 ![image](https://user-images.githubusercontent.com/84471904/124847506-e017d200-df4f-11eb-93ef-6f964cf192c8.png)
 
-•	Denver County had the largest number of votes
+•	Denver County received the largest number of votes
 
 _Procedure_:  An "if" statement was written to dettermine the winning county
 
@@ -61,16 +62,16 @@ _Procedure_:  An "if" statement was written to dettermine the winning candidate:
 
 
 ## Election_Audit Summary
-This Python script quickly and correctly analyzed all the information needed to determine the winner of the election by calculating total election votes, the total votes received by each candidate, the percentage of the total vote each candidate received, and finally, the election winner based on this information.  This script was then modified to included analyzing the data by county, including number of votes and the percentage of total votes for each county.  
+This Python script quickly and correctly analyzes the information needed to determine the winner of the election by calculating total election votes, the total votes received by each candidate, the percentage of the total vote each candidate received, and finally, the election winner based on this information.  This script was then modified to include analyzing the data by county, including number of votes and the percentage of total votes for each county.  
 
 Business proposal:  
-This Python script can be easiy modified for future elections, whether Local, County, Congressional, etc. Because the lists and dictionaries in the script are not hard-coded, they will run analysis on whatever data file is entered.  County information may or may not be of interested in some elections and can be removed.  Other parameters that might be of interest and can be added and analyzed are:
+This Python script can be easiy modified for future elections, whether local, county, congressional, etc. Because the lists and dictionaries in the script are not hard-coded, they will run analysis on whatever data files are entered.  County information in the current script may or may not be of intereste in some elections and can be removed.  Other parameters that might be of interest which could be added and analyzed to give more information are:
  
 •	political party affiliation
 
-•	voting districcts
+•	collecting and analyzing data by voting districts
 
-•	voters' age, ethnicity, gender if available 
+•	voters' age, ethnicity, gender if this infomratin is available 
 
 
 
