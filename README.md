@@ -1,4 +1,4 @@
-# Anylysis of an Election Audit Using Python: Is it a Successful Tool for Generating Election Results 
+# Analysis of an Election Audit Using Python: Is it a Successful Tool for Generating Election Results 
 
 ## Project and Purpose Overview:
 Determining the winner of any US election is a large task.  A great deal of information is collected and processed as quickly as possible.  A recent Colorade US Congressional Precinct, for example, had a turnout of almost 370,000 voters.  Excel has been customarily used to analyze this information.  While this is functional, there may be other options that can better handle large amounts of data and that can be automated to save time and increase accuracy.  
